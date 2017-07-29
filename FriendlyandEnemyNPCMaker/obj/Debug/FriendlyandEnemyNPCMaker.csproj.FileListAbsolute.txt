@@ -1,0 +1,14 @@
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\FriendlyandEnemyNPCMaker.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\FriendlyandEnemyNPCMaker.Properties.Resources.resources
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\FriendlyandEnemyNPCMaker.csproj.GenerateResource.Cache
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\FriendlyandEnemyNPCMaker.FriendlyandEnemyNPCMaker.resources
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\FriendlyandEnemyNPCMaker.NPCLuaSample.resources
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\bin\Debug\Friendly and Enemy NPC Maker.exe.config
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\bin\Debug\Friendly and Enemy NPC Maker.exe.manifest
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\bin\Debug\Friendly and Enemy NPC Maker.application
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\bin\Debug\Friendly and Enemy NPC Maker.exe
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\bin\Debug\Friendly and Enemy NPC Maker.pdb
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\Friendly and Enemy NPC Maker.exe.manifest
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\Friendly and Enemy NPC Maker.application
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\Friendly and Enemy NPC Maker.exe
+C:\Users\William\Documents\Visual Studio 2015\Projects\FriendlyandEnemyNPCMaker\FriendlyandEnemyNPCMaker\obj\Debug\Friendly and Enemy NPC Maker.pdb
